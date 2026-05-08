@@ -2,7 +2,7 @@
 
 Ce dépôt présente un projet d'Automatique (module UL3EE111) réalisé à Sorbonne Université. L'objectif est la modélisation, l'analyse et la synthèse d'une loi de commande pour réguler la température d'un four électrique industriel.
 
-Ce projet inclut les codes sources MATLAB/Simulink ainsi que le rapport d'étude complet détaillant l'approche mathématique.
+Ce projet inclut les codes sources MATLAB/Simulink ainsi que le rapport d'étude complet détaillant l'approche mathématique. (pdf)
 
 ---
 
